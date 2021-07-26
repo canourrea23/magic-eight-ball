@@ -3,5 +3,5 @@
 ### math method
 ### hidden
 ### animation/transistion
-### do/while 
+### do/while conditional function
 ### DOM manipulation
