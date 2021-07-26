@@ -12,7 +12,20 @@ function answerQuestion() {
         "Future uncertain.", 
         "Definitely yes.",
         "If you try hard.",
-        "Ask again later."
+        "Ask again later.",
+        "Outlook good", 
+        "Yes", 
+        "Signs point to yes",
+        "Don't count on it", 
+        "My reply is no",
+        "My sources say no", 
+        "Outlook not so good",
+        "Very doubtful", 
+        "Reply hazy, try again", 
+        "Ask again later", 
+        "Better not tell you now",
+        "Cannot predict now", 
+        "Concentrate and ask again"
     ];
 
     let index = 0;
